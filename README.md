@@ -57,4 +57,4 @@ cd cryptography-algorithms-python
 python hill_cipher.py
 ```
 ## ⚠ Disclaimer
-# These implementations are for educational purposes only and should not be used in production without proper security review.
+# These implementations are for educational purposes only.
