@@ -48,7 +48,7 @@ Some algorithms may require additional Python libraries (check individual files 
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/cryptography-algorithms-python.git
+git clone https://github.com/ibhatadn/Cryptography-Algorithms-Using-Python.git
 
 # Navigate into the project folder
 cd cryptography-algorithms-python
